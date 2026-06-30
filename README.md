@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>💻 Passionate Python Developer with a strong interest in building scalable backend applications and automation solutions.<br><br>🐍 Currently focused on mastering Python, FastAPI, Django, REST APIs, and backend system design.<br><br>⚙️ Learning and implementing DevOps practices including Docker, Kubernetes, CI/CD, GitHub Actions, Linux, AWS, and Infrastructure Automation.<br><br>☁️ Cloud Computing enthusiast with hands-on experience in AWS (EC2, S3, IAM) and cloud-based application development.<br><br>🚀 Building real-world projects using Python, PostgreSQL, React, FastAPI, and modern DevOps tools.<br><br>📚 Constantly improving my problem-solving skills, system design knowledge, and software engineering practices.<br><br>🤝 Open to collaborating on Open Source, Python, Backend Development, Cloud, and DevOps projects.<br><br>🎯 Goal: Become a Python Backend Engineer and DevOps Engineer capable of building production-ready cloud-native applications.<br><br>💬 Ask me about Python, FastAPI, SQL, AWS, Git, Linux, REST APIs, and Backend Development.<br><br>⚡ Fun Fact: I enjoy automating repetitive tasks and turning ideas into real-world applications through code.
 
-<!--
-**Dharahas-Hi/Dharahas-Hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dharahas-Hi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dharahas-Hi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dharahas-Hi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=Dharahas-Hi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
